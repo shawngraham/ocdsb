@@ -22,17 +22,20 @@ Watch the youngest children learn, before we have 'schooled them'. There is joy 
 
 Stephen Ramsay, of the University of Nebraska Lincoln, calls this ['the screwmeneutical imperative'](http://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1), or learning by messing about. Rob MacDougall, of the University of Western Ontario, calls this ['the action figure curriculum'](http://www.robmacdougall.org/blog/2010/05/the-action-figure-curriculum/). I think it's time we did more of this.
 
+## Contents of this repository
+
+In this repository I have gathered some of my teaching materials from recent years. There are [tutorials](https://github.com/shawngraham/ocdsb/tree/master/tool-tutorials) on a wide variety of tools, (from creating photogrammetric models of artefacts using cell phones to making location based stortyelling apps), to [minecrafted worlds for writing history](https://github.com/shawngraham/ocdsb/tree/master/minecraft-examples), to a recent classroom exercise I did with Daiana Andreoli of St. Francis Xavier High School [writing interactive historical fiction](https://github.com/shawngraham/ocdsb/tree/master/writing-history-IF-prompt). 
+
+I encourage you to download these materials (click the 'download as zip' button), to share them widely, and to take them to bits for the pieces that will help move your class forward. I would be **pleased** to come to any classroom I can, and should you or your students like to visit Carleton and our history department, just let me know.
+
 Shawn Graham
 
 Associate Professor of Digital Humanities
 
-Carleton University
+Department of History, Carleton University
 
 Ottawa Ontario
 
-[@electricarchaeo](http://twitter.com/electricarchaeo)
+[@electricarchaeo](http://twitter.com/electricarchaeo) | [Research Blog](http://electricarchaeology.ca)
 
-## Contents of this repository
-
-In this repository I have gathered some of my teaching materials from recent years. There are [tutorials](https://github.com/shawngraham/ocdsb/tree/master/tool-tutorials) on a wide variety of tools, (from creating photogrammetric models of artefacts using cell phones to making location based stortyelling apps), to [minecrafted worlds for writing history](https://github.com/shawngraham/ocdsb/tree/master/minecraft-examples), to a recent classroom exercise I did with Daiana Andreoli of St. Francis Xavier High School [writing interactive historical fiction](https://github.com/shawngraham/ocdsb/tree/master/writing-history-IF-prompt). 
 shawn dot graham at carleton dot ca
