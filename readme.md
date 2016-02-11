@@ -28,6 +28,8 @@ In this repository I have gathered some of my teaching materials from recent yea
 
 I encourage you to download these materials (click the 'download as zip' button), to share them widely, and to take them to bits for the pieces that will help move your class forward. I would be **pleased** to come to any classroom I can, and should you or your students like to visit Carleton and our history department, just let me know.
 
+On February 12th, we'll try [building our own game](workshop-exercise.md), and if that goes well, we can try some more complicated ways of writing history. Finally, a resource that you could adapt for data analysis in history is [my 'crafting digital history' workbook](http://workbook.craftingdigitalhistory.ca).
+
 Shawn Graham <br>
 Associate Professor of Digital Humanities <br>
 Department of History, Carleton University <br>
