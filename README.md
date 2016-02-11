@@ -1,3 +1,7 @@
+_nb the tutorial materials below were first compiled in the summer of 2015 to support a workshop at the Advanced Institute in Digital Archaeology at Michigan State University. I've included these here for you to teach yourself a number of playful technologies that could be adapted for classroom use. For making the *argument* 'why games' to administrators, school board officials, etc (should that be necessary), as well as lesson plans and pointers to further resources, I'd recommend Jeremiah McCall's [Gaming the Past](https://www.routledge.com/products/9780415887601). 
+
+-----
+
 # Workshop TOC
 Start by reading the [Introduction](introduction.md); then try using [Twine to prototype your ideas](prototyping-with-twine.md). With a prototype in hand, you'll know which of the tutorials below will best serve your interests. You can also try playing with a cardboard-AR experience I built called '[the diary in the attic](http://electricarchaeology.ca/2015/07/16/the-diary-in-the-attic/)' (android only, sorry).
 
