@@ -4,7 +4,7 @@ The essay is dead. We have killed it. What joy, what experimentation, what it mi
 
 > "...the essay form, which should be extremely free and flexible, is instead often presented as a static and rule-bound monster that students must master in order not to lose marks [...] Far from an opportunity to explore intellectual passions and interests in a personal style, the essay is transformed into a formulaic method for discussing set topics in five paragraphs: the [compulsory figures](http://en.wikipedia.org/wiki/Compulsory_figures) of academia." (O'Donnell, 2012)
 
-In my presentation, I will argue that we can return to the spirit of the essay if we remember that one of its early purposes was to communicate to a wider public; that it was to sketch out an experience, an argument, a world where things might be different than they are _here_: that is, a simulation. The written essay was an excellent tool for building worlds in other peoples' minds, but I think that is no longer the case.
+In my presentation, I will argue that we can return to the spirit of the essay if we remember that one of its early purposes was to communicate to a wider public; that it was to sketch out an experience, an argument, a world where things might be different than they are _here_: that is, a simulation. The written essay was an excellent tool for building worlds in other people's minds, but I think that is no longer the case.
 
 Daniel Paul O'Donnell calls for ['the unessay'](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay): 
 
@@ -28,14 +28,9 @@ In this repository I have gathered some of my teaching materials from recent yea
 
 I encourage you to download these materials (click the 'download as zip' button), to share them widely, and to take them to bits for the pieces that will help move your class forward. I would be **pleased** to come to any classroom I can, and should you or your students like to visit Carleton and our history department, just let me know.
 
-Shawn Graham
-
-Associate Professor of Digital Humanities
-
-Department of History, Carleton University
-
-Ottawa Ontario
-
-[@electricarchaeo](http://twitter.com/electricarchaeo) | [Research Blog](http://electricarchaeology.ca)
-
-shawn dot graham at carleton dot ca
+Shawn Graham <br>
+Associate Professor of Digital Humanities <br>
+Department of History, Carleton University <br>
+Ottawa Ontario <br>
+[@electricarchaeo](http://twitter.com/electricarchaeo) | [Research Blog](http://electricarchaeology.ca) <br>
+shawn dot graham at carleton dot ca 
