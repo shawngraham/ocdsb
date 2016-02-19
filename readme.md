@@ -1,3 +1,5 @@
+_looking to be provocative here ;)_
+
 # No More Essays
 
 The essay is dead. We have killed it. What joy, what experimentation, what it might actually mean 'to try' something - _essayer_ has been hammered out of our lives. Instead, we keep a careful eye on the teacher's expectations, and we end up writing something very _safe_, very _narrow_, very much for an audience of _one_.
